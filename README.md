@@ -1,4 +1,4 @@
-# JavaScript DApp Template
+# Guess Number Game
 
-This is a template for JavaScript Cartesi DApps. It uses node to execute the backend application.
-The application entrypoint is the `src/index.js` file. It is bundled with [esbuild](https://esbuild.github.io), but any bundler can be used.
+This is Simple Guess Number Game Built on Cartesi.
+This game allow a user to input a number (guess) and generate a random number called the Secret number and if guess is equal to the secret number then the user wins, but if the guess is more than or below the Secret number that the user will be prompted to try again
